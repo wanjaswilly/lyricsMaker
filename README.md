@@ -2,7 +2,7 @@
 uses the google to speech api
 
 # Setting up
-To use this package, edit the package.env file with your credentials
+To use this package, edit the `.env` file with your credentials
 
 # Usage
  via commandline
